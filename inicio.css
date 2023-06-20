@@ -74,6 +74,10 @@ section#box a {
     color: red;
 }
 
+section#box a:hover {
+    color: white;
+}
+
 section#esquerda {
     display: block;
     background-color: #ddd;
